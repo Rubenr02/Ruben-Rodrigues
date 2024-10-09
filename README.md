@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenr02&label=Profile%20views&color=0e75b6&style=flat" alt="rubenr02" /> </p>
 
-- I’m currently learning **Information Systems**
+- I’m currently learning **Statistics and Information Management**
 
 - How to reach me **rubenmrodrigues02@gmail.com**
 
